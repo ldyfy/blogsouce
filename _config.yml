@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 我的个人博客
 subtitle:
 description:
-author: 余方杨
+author: 刘灯
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yuhonyon.github.io/
+url: https://ldyfy.github.io/
 root: /blog/
 permalink: :title/
 permalink_defaults:
@@ -69,5 +69,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/yuhonyon/blog.git
+  repo: https://github.com/ldyfy/blog.git
   branch: master
